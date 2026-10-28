@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="100%" height="100%">
+    <title>AG-60517 · Event Details 9:16 — AdGuard v5 is here (SMIL preview)</title>
+    <defs><radialGradient id="GlintGrad"><stop offset="0" stop-color="#ffffff" stop-opacity="1"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.85"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient><clipPath id="ksclip"><rect width="1080" height="1920"/></clipPath></defs>
+    <rect width="1080" height="1920" fill="#000000"/>
+    <g clip-path="url(#ksclip)">
+        <g transform="translate(520,760)">
+            <animateTransform attributeName="transform" type="scale" additive="sum" calcMode="spline" values="1,1;1,1;1.1,1.1;1.1,1.1;1.16,1.16;1.16,1.16;1,1;1,1" keyTimes="0;0.05;0.2;0.3;0.425;0.525;0.875;1" keySplines="0 0 1 1;0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="20s" repeatCount="indefinite"/>
+            <g transform="translate(-520,-760)">
+                <g>
+                    <animate attributeName="opacity" calcMode="spline" values="0.82;1;0.82;1;0.82;1;0.82;1;0.82" keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" dur="20s" repeatCount="indefinite"/>
+                    <image href="../assets/9x16/glow.png" x="-272" y="-481" width="2964" height="2964"/>
+                </g>
+                <g transform="translate(690,1880)">
+                    <animateTransform attributeName="transform" type="scale" additive="sum" calcMode="spline" values="1,1;1,1.01;1,1;1,1.01;1,1;1,1.01;1,1;1,1.01;1,1" keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" dur="20s" repeatCount="indefinite"/>
+                    <g transform="translate(-690,-1880)">
+                        <image href="../assets/9x16/character.png" x="147" y="456" width="1073" height="1430"/>
+                    <g transform="translate(515,500)" opacity="0">
+                        <animateTransform attributeName="transform" type="scale" additive="sum" calcMode="spline" values="0.5;0.5;1;1.15;1.15;0.5" keyTimes="0;0.2325;0.25;0.3;0.995;1" keySplines="0 0 1 1;0.2 0.8 0.3 1;0.25 0.1 0.25 1;0 0 1 1;0 0 1 1" dur="20s" repeatCount="indefinite"/>
+                        <animate attributeName="opacity" calcMode="spline" values="0;0;1;0;0" keyTimes="0;0.2325;0.25;0.3;1" keySplines="0 0 1 1;0.2 0.8 0.3 1;0.6 0.05 0.4 0.95;0 0 1 1" dur="20s" repeatCount="indefinite"/>
+                        <path d="M0,-22 C6.16,-6.16 6.16,-6.16 22,0 C6.16,6.16 6.16,6.16 0,22 C-6.16,6.16 -6.16,6.16 -22,0 C-6.16,-6.16 -6.16,-6.16 0,-22 Z" fill="url(#GlintGrad)"/>
+                        <circle r="3.52" fill="#ffffff" opacity="0.95"/>
+                    </g>
+                    <g transform="translate(515,1100)" opacity="0">
+                        <animateTransform attributeName="transform" type="scale" additive="sum" calcMode="spline" values="0.5;0.5;1;1.2;1.2;0.5" keyTimes="0;0.4575;0.475;0.525;0.995;1" keySplines="0 0 1 1;0.2 0.8 0.3 1;0.25 0.1 0.25 1;0 0 1 1;0 0 1 1" dur="20s" repeatCount="indefinite"/>
+                        <animate attributeName="opacity" calcMode="spline" values="0;0;0.95;0;0" keyTimes="0;0.4575;0.475;0.525;1" keySplines="0 0 1 1;0.2 0.8 0.3 1;0.6 0.05 0.4 0.95;0 0 1 1" dur="20s" repeatCount="indefinite"/>
+                        <path d="M0,-20 C5.6000000000000005,-5.6000000000000005 5.6000000000000005,-5.6000000000000005 20,0 C5.6000000000000005,5.6000000000000005 5.6000000000000005,5.6000000000000005 0,20 C-5.6000000000000005,5.6000000000000005 -5.6000000000000005,5.6000000000000005 -20,0 C-5.6000000000000005,-5.6000000000000005 -5.6000000000000005,-5.6000000000000005 0,-20 Z" fill="url(#GlintGrad)"/>
+                        <circle r="3.2" fill="#ffffff" opacity="0.95"/>
+                    </g>
+                    <g transform="translate(515,858)" opacity="0">
+                        <animateTransform attributeName="transform" type="scale" additive="sum" calcMode="spline" values="0.5;0.5;1;1.1;1.1;0.5" keyTimes="0;0.7325;0.75;0.8;0.995;1" keySplines="0 0 1 1;0.2 0.8 0.3 1;0.25 0.1 0.25 1;0 0 1 1;0 0 1 1" dur="20s" repeatCount="indefinite"/>
+                        <animate attributeName="opacity" calcMode="spline" values="0;0;0.85;0;0" keyTimes="0;0.7325;0.75;0.8;1" keySplines="0 0 1 1;0.2 0.8 0.3 1;0.6 0.05 0.4 0.95;0 0 1 1" dur="20s" repeatCount="indefinite"/>
+                        <path d="M0,-18 C5.040000000000001,-5.040000000000001 5.040000000000001,-5.040000000000001 18,0 C5.040000000000001,5.040000000000001 5.040000000000001,5.040000000000001 0,18 C-5.040000000000001,5.040000000000001 -5.040000000000001,5.040000000000001 -18,0 C-5.040000000000001,-5.040000000000001 -5.040000000000001,-5.040000000000001 0,-18 Z" fill="url(#GlintGrad)"/>
+                        <circle r="2.88" fill="#ffffff" opacity="0.95"/>
+                    </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <image href="../assets/9x16/badge.png" x="64" y="70" width="272" height="61"/>
+        <image href="../assets/9x16/title.png" x="64" y="197" width="739" height="272"/>
+        <image href="../assets/9x16/subtitle.png" x="64" y="502" width="326" height="96"/>
+        <image href="../assets/9x16/chips.png" x="49" y="1076" width="370" height="684.53"/>
+    </g>
+</svg>
