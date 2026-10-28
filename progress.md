@@ -6,6 +6,6 @@
 - [x] 2. Экспорт PNG кусков (персонаж ×2 @2x, свечение ×2 @1x → 2048px, UI @2x)
 - [x] 3. Сборка .keyshape ×2 (16:9, 9:16) + SMIL-превью + index.html
 - [x] 4. Валидация (XML, zip, тайминги, каналы — ALL CHECKS PASSED) + визуальная проверка в браузере
-- [ ] 5. Деплой: git → wotaniel/ag-anim-glm53flash → Pages
+- [x] 5. Деплой: git → wotaniel/ag-anim-glm53flash → Pages (https://wotaniel.github.io/ag-anim-glm53flash/ — HTTP 200)
 
-Статус: деплой.
+Статус: готово (28.10.2026).
